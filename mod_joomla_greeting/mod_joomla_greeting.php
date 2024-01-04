@@ -1,12 +1,12 @@
 <?php
 <?php
 /**
- * @package    [PACKAGE_NAME]
+ * @package    [joomla_greeting_module]
  *
- * @author     [AUTHOR] <[AUTHOR_EMAIL]>
+ * @author     [Pradip Chaudhary] <[chaudharypradip678@gmail.com]>
  * @copyright  [COPYRIGHT]
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
- * @link       [AUTHOR_URL]
+ * @link       [https://pradipchaudhary.com.np/]
  */
 
 // No direct access to this file
